@@ -1,5 +1,5 @@
 
-# flask-blog-app v1
+# Bloglite Application
 
 A platform for sharing images and connecting with other users. 
 
